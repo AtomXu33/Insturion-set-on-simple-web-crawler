@@ -22,7 +22,8 @@ Step 3: write a parser function to read in URLs, this is one of the most importa
  
 
 Step 4: write a header parser class to find and get all the words inside this HTML file, it can be named differently and do different works depends on what you want.
-![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_10_45](https://user-images.githubusercontent.com/46579637/166173086-00cbcbd4-0807-4051-aa7f-689b7087877d.png)
+![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_10_45](https://user-images.githubusercontent.com/46579637/166173086-00cbcbd4-0807-4051-aa7f-689b7087877d.png)![Picture1](https://user-images.githubusercontent.com/46579637/166173306-74100e0c-691c-49ef-9a73-c4c5e6ba18d4.png)
+
  
 
 Step 5: write a data collector class to organize data, this class basically takes what you have in your list we created at the beginning and rewrite it for us to use easier.
@@ -43,12 +44,13 @@ Step 9: write our crawler class, by the crawl function, we could go deeper and d
 
 
 Step 10: Congratulations! You now have your first web crawler! By running the first Crawler python file you can start using your crawler. 
-
+![Picture1](https://user-images.githubusercontent.com/46579637/166173314-643cb36c-e455-4b41-a65f-f39217e88db1.png)
 Tips: This is a very simple crawler that can only crawl limited items(words, links….), do not use this temple for complex tasks.
 
 Troubleshooting: make sure when you call other method, call the right name, otherwise, python would send you an error message.
 
  
+
 
 
 
