@@ -42,3 +42,12 @@ Tips: This is a very simple crawler that can only crawl limited items(words, lin
 Troubleshooting: make sure when you call other method, call the right name, otherwise, python would send you an error message.
 
  
+![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_09_56](https://user-images.githubusercontent.com/46579637/166173085-722a491e-102e-4436-853b-682060b258ed.png)
+![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_10_45](https://user-images.githubusercontent.com/46579637/166173086-00cbcbd4-0807-4051-aa7f-689b7087877d.png)
+![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_11_07](https://user-images.githubusercontent.com/46579637/166173088-0a237574-913c-44d9-8293-758a61034056.png)
+![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_09_35](https://user-images.githubusercontent.com/46579637/166173090-5278edbf-b0f1-4fec-94d0-3a788076eeaa.png)
+![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_09_46](https://user-images.githubusercontent.com/46579637/166173091-2f5a47b9-61ff-4a5a-80db-d73c71b7899a.png)
+![htmlParser py - C__Users_26394_Desktop_htmlParser py (3 9 7) 2022_4_26 14_11_26](https://user-images.githubusercontent.com/46579637/166173096-c013e828-5006-426b-a8a5-844a86b0f7d1.png)
+![_firstCrawler py - C__Users_26394_Desktop_firstCrawler py (3 9 7)_ 2022_4_26 14_12_13](https://user-images.githubusercontent.com/46579637/166173100-665366b1-c56b-4f4e-8173-5f5b45de6c2b.png)
+![_firstCrawler py - C__Users_26394_Desktop_firstCrawler py (3 9 7)_ 2022_4_26 14_12_22](https://user-images.githubusercontent.com/46579637/166173101-4aeb4e56-d750-481d-bc3d-c30883d68847.png)
+![_firstCrawler py - C__Users_26394_Desktop_firstCrawler py (3 9 7)_ 2022_4_26 14_12_30](https://user-images.githubusercontent.com/46579637/166173102-dc649460-8a57-4a40-91be-0b5add311de3.png)
